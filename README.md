@@ -16,9 +16,7 @@
 -         WeChat:  GhettoArtistZykee
 -         QQ:   2720229295
 - ⚡ Fun fact: 
--     Interested in Music:RockNRoll,HipHop
-
--     I hope to establish a better connection between creation and humanity，actually I am an idealist.
-
--     Novice to DSP audio algorithms, hoping to find people with similar interests to improve together.
+- Interested in Music:RockNRoll,HipHop
+- I hope to establish a better connection between creation and humanity，actually I am an idealist.
+- Novice to DSP audio algorithms, hoping to find people with similar interests to improve together.
 
