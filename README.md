@@ -12,14 +12,15 @@
 
 - 🤔 I’m looking for help with dsp algorithm.
 
-- 💬 Some development experience of the project I have completed can be found on my personal official account:YiyinValley_
+- 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
+
 - 📫 How to reach me: 
--           WeChat:GhettoArtistZykee
--           QQ:2720229295
+          WeChat:GhettoArtistZykee
+          QQ:2720229295
 - ⚡ Fun fact: 
-- Interested in Music:RockNRoll,HipHop
-- I hope to establish a better connection between creation and humanity，actually I am an idealist.
-- Novice to DSP audio algorithms, hoping to find people with similar interests to improve together.
+-     Interested in Music:RockNRoll,HipHop
+-     I hope to establish a better connection between creation and humanity，actually I am an idealist.
+-     Novice to DSP audio algorithms, hoping to find people with similar interests to improve together.
 <!--
 **ZihCode/ZihCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
