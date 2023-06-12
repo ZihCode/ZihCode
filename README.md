@@ -1,6 +1,9 @@
-### Hi there 👋 My name is Zykee Lu,and I currently live in Shenzhen and am from Northeast China.
-### I graduated from Communication University of China(CUC) last year(2022),majoring in Broadcasting and Television Engineering.
-### 
+### Hi there 👋 
+
+- My name is Zykee Lu,and I currently live in Shenzhen and am from Northeast China.
+
+- I graduated from Communication University of China(CUC) last year(2022),majoring in Broadcasting and Television Engineering.
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZihCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music)
 
