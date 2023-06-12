@@ -15,8 +15,8 @@
 - 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
 
 - 📫 How to reach me: 
-          WeChat:GhettoArtistZykee
-          QQ:2720229295
+          -WeChat:GhettoArtistZykee
+          -QQ:2720229295
 - ⚡ Fun fact: 
 -     Interested in Music:RockNRoll,HipHop
 -     I hope to establish a better connection between creation and humanity，actually I am an idealist.
