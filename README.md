@@ -2,6 +2,7 @@
 My name is ***Zykee Lu***,and I currently live in **Shenzhen** and come from **Northeast China**.
 
 - I graduated from ***Communication University of China(CUC) last year(2022)***,majoring in Broadcasting and Television Engineering.
+  ************************************************************************************************************************************
 
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
 - ~~PitchShifting Algorithm.~~  Finished!(Almost)
