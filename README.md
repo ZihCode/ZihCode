@@ -5,8 +5,8 @@ My name is ***Zykee Lu***,and I currently live in **Shenzhen** and come from **N
   ************************************************************************************************************************************
 
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
-- ~~PitchShifting Algorithm.~~  Finished!(Almost)
-- ~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony)~~  Finished(Almost)
+- &emsp;~~PitchShifting Algorithm.~~  Finished!(Almost)
+- &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony)~~  Finished(Almost)
 - ~~FAST CONVOLUTION Algorithm.~~ Finished(Almost)
 - Whistling suppression algorithm(Current)
 
