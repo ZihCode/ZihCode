@@ -12,8 +12,10 @@ My name is **Zykee Lu**,and I currently live in Shenzhen and am from Northeast C
 
 - 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
+   
   WeChat:  **GhettoArtistZykee**
+  
   QQ:   **2720229295**
 
   
