@@ -1,5 +1,4 @@
 #### Hi there 👋 
-<font face="STCAIYUN">
 My name is **Zykee Lu**,and I currently live in Shenzhen and am from Northeast China.
 
 - I graduated from Communication University of China(CUC) last year(2022),majoring in Broadcasting and Television Engineering.
