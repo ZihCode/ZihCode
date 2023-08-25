@@ -1,16 +1,18 @@
-#### Hi there 👋 
-My name is ***Zykee Lu***,and I currently live in **Shenzhen** and come from **Northeast China**.
+#### Hey Bro 👋 
+My name is ***Zykee Lu***,and I currently live in **Shenzhen,China** and I come from **Northeast China**.
+
+I write open source projects about audio and image algorthms in github.
 
 - I graduated from ***Communication University of China(CUC) last year(2022)***,majoring in Broadcasting and Television Engineering.
   ************************************************************************************************************************************
 
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
-- &emsp;&emsp;~~PitchShifting Algorithm.(Time domain scheme and frequency domain scheme)~~  Finished!(Almost)2023/6/5
-- &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony)~~  Finished!(Almost)2023/6/18
-- &emsp;&emsp;PitchShifting using classic phase vocoder(PV)(Currently)
-- &emsp;&emsp;~~FAST CONVOLUTION Algorithm.~~ Finished!(Almost)2023/7/27
-- &emsp;&emsp;~~Whistling suppression algorithm.~~ Finished!(Almost)2023/8/25
-- &emsp;&emsp;Match EQ Algorithm.(Currently)
+- &emsp;&emsp;~~PitchShifting Algorithm.(Time domain scheme and frequency domain scheme) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/5
+- &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/18
+- &emsp;&emsp;PitchShifting using classic phase vocoder in Pure C.(PV)😢(Currently)
+- &emsp;&emsp;~~FAST CONVOLUTION Algorithm in Pure C.~~ Finished!✌(Almost)&emsp;2023/7/27
+- &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost)&emsp;2023/8/25
+- &emsp;&emsp;Match EQ Algorithm in MatLab.😢(Currently)
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.
