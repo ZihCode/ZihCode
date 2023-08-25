@@ -5,12 +5,12 @@ My name is ***Zykee Lu***,and I currently live in **Shenzhen** and come from **N
   ************************************************************************************************************************************
 
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
-- &emsp;&emsp;~~PitchShifting Algorithm.(Time domain scheme and frequency domain scheme)~~  Finished!(Almost)
-- &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony)~~  Finished!(Almost)
+- &emsp;&emsp;~~PitchShifting Algorithm.(Time domain scheme and frequency domain scheme)~~  Finished!(Almost)2023/6/5
+- &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony)~~  Finished!(Almost)2023/6/18
 - &emsp;&emsp;PitchShifting using classic phase vocoder(PV)(Currently)
-- &emsp;&emsp;~~FAST CONVOLUTION Algorithm.~~ Finished!(Almost)
-- &emsp;&emsp;Whistling suppression algorithm(Currently)
-
+- &emsp;&emsp;~~FAST CONVOLUTION Algorithm.~~ Finished!(Almost)2023/7/27
+- &emsp;&emsp;~~Whistling suppression algorithm.~~ Finished!(Almost)2023/8/25
+- &emsp;&emsp;Match EQ Algorithm.(Currently)
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.
