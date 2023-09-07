@@ -12,7 +12,8 @@ I write projects about audio algorthms in github.
 - &emsp;&emsp;PitchShifting using classic phase vocoder in Pure C.(PV)😢(Currently)
 - &emsp;&emsp;~~FAST CONVOLUTION Algorithm in Pure C.~~ Finished!✌(Almost)&emsp;2023/7/27
 - &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost)&emsp;2023/8/25
-- &emsp;&emsp;Match EQ Algorithm in MatLab.😢(Currently)
+- &emsp;&emsp;~~Match EQ Algorithm in MatLab.✌(Finished)~~&emsp;2023/9/7
+- &emsp;&emsp;~~Real-time Match EQ Algorithm in Pure C.✌(Finished)~~&emsp;2023/9/7
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.
