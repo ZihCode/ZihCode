@@ -18,7 +18,7 @@ I write projects about audio algorthms in github.
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.
 
-- 🤔 I’m looking for help with dsp algorithm.
+- 🤔 I’m looking for help with dsp algorithm.Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform) and so on.
 
 - 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
 
