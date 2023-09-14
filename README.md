@@ -14,6 +14,7 @@ I write projects about audio algorthms in github.
 - &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost)&emsp;2023/8/25
 - &emsp;&emsp;~~Match EQ Algorithm in MatLab.✌(Finished)~~&emsp;2023/9/7
 - &emsp;&emsp;~~Real-time Match EQ Algorithm in Pure C.✌(Finished)~~&emsp;2023/9/7
+- &emsp;&emsp;~~An easy way to separate voice from music in Matlab, just for fun.✌(Finished)~~&emsp;2023/9/14
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.
