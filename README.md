@@ -33,6 +33,8 @@ I write projects about audio algorthms in github.
   &emsp;&emsp;&emsp;QQ:   **2720229295**
   (This is also my email address.)
 
+  &emsp;&emsp;&emsp;EmailAddress:  **zykeeghettoartist@foxmail.com**
+
   
 - ⚡ Fun fact: 
 -  &emsp;&emsp;&emsp;Interested in Music: &nbsp; *RockNRoll*    , &nbsp; *HipHop*    
