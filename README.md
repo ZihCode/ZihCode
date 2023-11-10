@@ -20,9 +20,9 @@ I write projects about audio algorthms in github.
 - &emsp;&emsp;Resampling algorithm in Pure C.😢(Currently)
 ************************************************************************************************************************************
 
-- 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.
+- 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.At the same time, I am strengthening my cpp skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year.
 
-- 🤔 I’m looking for help with dsp algorithm.Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform) and so on.
+- 🤔 I’m looking for help with dsp algorithm.Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform), Filters and so on.I sometimes go to the CCRMA Institute on MIT's website to learn about modern signal processing.
 
 - 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
 
@@ -31,6 +31,7 @@ I write projects about audio algorthms in github.
   &emsp;&emsp;&emsp;WeChat:  **GhettoArtistZykee**
   
   &emsp;&emsp;&emsp;QQ:   **2720229295**
+  (This is also my email address.)
 
   
 - ⚡ Fun fact: 
