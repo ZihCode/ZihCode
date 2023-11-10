@@ -38,6 +38,6 @@ I write projects about audio algorthms in github.
   
 - ⚡ Fun fact: 
 -  &emsp;&emsp;&emsp;Interested in Music: &nbsp; *RockNRoll*    , &nbsp; *HipHop*    
--  &emsp;&emsp;&emsp;I hope to establish a better connection between creation and humanity，actually I am an idealist.Often write some of their own mood or lyrics, another is an electric guitar player.  
+-  &emsp;&emsp;&emsp;I hope to establish a better connection between creation and humanity，actually I am an idealist.Often write some of my own mood or lyrics, another is an electric guitar player.  
 -  &emsp;&emsp;&emsp;Novice to DSP audio algorithms, hoping to find people with similar interests to improve together.
 
