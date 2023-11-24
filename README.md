@@ -1,5 +1,5 @@
 #### Hey Bro 👋 
-My name is ***Zykee Lu***,and I currently live in **Shenzhen,China** and I come from **Northeast China**.
+My name is ***Zykee Lyu***,and I currently live in **Shenzhen,China** and I come from **Northeast China**.
 
 I write projects about audio algorthms in github.
 
