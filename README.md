@@ -9,11 +9,11 @@ I write projects about audio algorthms in github.
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
 - &emsp;&emsp;~~PitchShifting Algorithm.(Time domain scheme and frequency domain scheme) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/5
 - &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/18
-- &emsp;&emsp;~~PitchShifting using classic phase vocoder in Pure C.(PV)(time-stretch+resample)Learning by thoroughly understand principle of phase vocoder.😢(Currently)2023/10/23~~ Nearly Finished😢(still have some quality promblems to be sovled) 2023/11/10  
-- &emsp;&emsp;~~FAST CONVOLUTION Algorithm in Pure C. ✌(Finished)~~&emsp;2023/7/27
+- &emsp;&emsp;~~PitchShifting using classic phase vocoder in Pure C.(PV)(time-stretch+resample)Learning by thoroughly understand principle of phase vocoder.😢(Currently)2023/10/23~~ ~~Nearly Finished😢(still have some quality promblems to be sovled) 2023/11/10~~    ✌(Finished)~~&emsp;2023/11/24
+- &emsp;&emsp;~~FAST CONVOLUTION Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/7/27
 - &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost)&emsp;2023/8/25
-- &emsp;&emsp;~~Match EQ Algorithm in MatLab.✌(Finished)~~&emsp;2023/9/7
-- &emsp;&emsp;~~Real-time Match EQ Algorithm in Pure C.✌(Finished)~~&emsp;2023/9/7
+- &emsp;&emsp;~~Match EQ Algorithm in MatLab.~~ ✌(Finished)&emsp;2023/9/7
+- &emsp;&emsp;~~Real-time Match EQ Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/9/7
 - &emsp;&emsp;~~An easy way to separate voice from music in Matlab, just for fun.✌(Finished)~~&emsp;2023/9/14
 - &emsp;&emsp;~~Mid-channel extraction Algorithm for Voice Separation with FFT in Pure C.✌(Finished)~~&emsp;2023/9/20
 - &emsp;&emsp;~~Polyphase filter using for samplerate_converting in Matlab,Learning by principle.✌(Finished)~~&emsp;2023/9/25
