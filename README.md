@@ -17,7 +17,7 @@ I write projects about audio algorthms in github.
 - &emsp;&emsp;~~An easy way to separate voice from music in Matlab, just for fun.~~ ✌(Finished)&emsp;2023/9/14
 - &emsp;&emsp;~~Mid-channel extraction Algorithm for Voice Separation with FFT in Pure C.~~ ✌(Finished)&emsp;2023/9/20
 - &emsp;&emsp;~~Polyphase filter using for samplerate_converting in Matlab,Learning by principle.~~ ✌(Finished)&emsp;2023/9/25
-- &emsp;&emsp;Resampling algorithm in Pure C.😢(Currently)
+- &emsp;&emsp;Guitar Compressor Effect Algorithm in Pure C.😢(Currently)
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.At the same time, I am strengthening my cpp skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year.
