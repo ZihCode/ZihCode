@@ -35,7 +35,7 @@ I write projects about audio algorthms in github.
   &emsp;&emsp;&emsp;QQ:   **2720229295**
   (This is also my email address.)
 
-  &emsp;&emsp;&emsp;EmailAddress:  **zykeeghettoartist@foxmail.com**
+  &emsp;&emsp;&emsp;EmailAddress:  **zykeegalyu@gmail.com** or this : **codingzykee@outlook.com**
 
   
 - ⚡ Fun fact: 
