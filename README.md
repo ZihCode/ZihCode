@@ -3,7 +3,7 @@ My name is ***Zykee Lyu***,and I currently live in **Shenzhen,China** and I come
 
 I write projects about audio algorthms in github.
 
-- I graduated from ***Communication University of China(CUC) last year(2022)***,majoring in Broadcasting and Television Engineering.
+- I graduated from ***Communication University of China(CUC) (2022)***,majoring in Broadcasting and Television Engineering.
   ************************************************************************************************************************************
 
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
