@@ -18,7 +18,8 @@ I write projects about audio algorthms in github.
 - &emsp;&emsp;~~Mid-channel extraction Algorithm for Voice Separation with FFT in Pure C.~~ ✌(Finished)&emsp;2023/9/20
 - &emsp;&emsp;~~Polyphase filter using for samplerate_converting in Matlab,Learning by principle.~~ ✌(Finished)&emsp;2023/9/25
 - &emsp;&emsp;Guitar Compressor Effect Algorithm in Pure C.😢(Currently)
-- &emsp;&emsp;~~Shimmer Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/11  
+- &emsp;&emsp;~~Shimmer Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/11
+- - &emsp;&emsp;~~Reverse Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/26  
 - &emsp;&emsp;~~Basic Realtime-reverberator Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/12/21 
 ************************************************************************************************************************************
 
