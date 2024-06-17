@@ -11,7 +11,7 @@ I write projects about audio algorithms on Github.
 - &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/18
 - &emsp;&emsp;~~PitchShifting using classic phase vocoder in Pure C.(PV)(time-stretch+resample)Learning by thoroughly understand principle of phase vocoder.😢(Currently)2023/10/23~~ ~~Nearly Finished😢(still have some quality promblems to be sovled) 2023/11/10~~    ✌(Finished)&emsp;2023/11/24
 - &emsp;&emsp;~~FAST CONVOLUTION Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/7/27
-- &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost)&emsp;2023/8/25
+- &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost,Still have some promblems)&emsp;2023/8/25
 - &emsp;&emsp;~~Match EQ Algorithm in MatLab.~~ ✌(Finished)&emsp;2023/9/7
 - &emsp;&emsp;~~Real-time Match EQ Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/9/7
 - &emsp;&emsp;~~An easy way to separate voice from music in Matlab, just for fun.~~ ✌(Finished)&emsp;2023/9/14
