@@ -20,7 +20,8 @@ I write projects about audio algorithms on Github.
 - &emsp;&emsp;~~Guitar Compressor Effect Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/5/30  
 - &emsp;&emsp;~~Shimmer Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/11
 - &emsp;&emsp;~~Reverse Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/26  
-- &emsp;&emsp;~~Basic Realtime-reverberator Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/12/21 
+- &emsp;&emsp;~~Basic Realtime-reverberator Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/12/21
+- &emsp;&emsp; Machine Learning methods about distortion(GuitarML) (Currently)&esmp;2024/6/17
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.At the same time, I am strengthening my c-plus-plus skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year.
