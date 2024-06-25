@@ -8,7 +8,7 @@ I write projects about audio algorithms on Github.
 
 - 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
 - &emsp;&emsp;~~PitchShifting Algorithm.(Time domain scheme and frequency domain scheme) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/5
-- &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/18
+- &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/18 Improved！Finished！&emsp;2024/6/25
 - &emsp;&emsp;~~PitchShifting using classic phase vocoder in Pure C.(PV)(time-stretch+resample)Learning by thoroughly understand principle of phase vocoder.😢(Currently)2023/10/23~~ ~~Nearly Finished😢(still have some quality promblems to be sovled) 2023/11/10~~    ✌(Finished)&emsp;2023/11/24
 - &emsp;&emsp;~~FAST CONVOLUTION Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/7/27
 - &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost,Still have some promblems)&emsp;2023/8/25
