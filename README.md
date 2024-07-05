@@ -1,12 +1,14 @@
 #### Hey Bro 👋 
-My name is ***Zykee Lyu***, I currently live in **Shenzhen China** and I come from **Northeast China**.
+My name is ***Zykee Lyu***. I currently live in **Shenzhen, China** and I come from **Northeast Region of China**.
 
-I write projects about audio algorithms on Github.
+I write projects about audio & music DSP algorithms on Github.
 
 - I graduated from ***Communication University of China(CUC) (2022)***,majoring in Broadcasting and Television Engineering.
   ************************************************************************************************************************************
 
-- 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music):
+- 🔭 I’m currently working on Guitar Audio Algorithm(Enya Music). Most of my projects use the latest modern C++ syntax， pure C language syntax, or both. The majority of the projects use the JUCE framework, and some are verified using Matlab syntax. Although most of the repositories are private (commercial), I would be delighted to have you as a GitHub collaborator to help with the development.
+- Here is an overview (directory), my dude, you can see what interesting things I have done:
+  
 - &emsp;&emsp;~~PitchShifting Algorithm.(Time domain scheme and frequency domain scheme) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/5 Improved! Finished! &emsp; As whammy pedal! 2024/7/2
 - &emsp;&emsp;~~Electric guitar cranking algorithm. (real-time modulation algorithm but to ensure polyphony) In Pure C.~~  Finished!✌(Almost)&emsp;2023/6/18 Improved！Finished！&emsp;2024/6/25
 - &emsp;&emsp;~~PitchShifting using classic phase vocoder in Pure C.(PV)(time-stretch+resample)Learning by thoroughly understand principle of phase vocoder.😢(Currently)2023/10/23~~ ~~Nearly Finished😢(still have some quality promblems to be sovled) 2023/11/10~~    ✌(Finished)&emsp;2023/11/24
@@ -24,24 +26,24 @@ I write projects about audio algorithms on Github.
 - &emsp;&emsp; Machine Learning methods about distortion(GuitarML) (Currently)&emsp;2024/6/17 Temporarily put on hold...
 ************************************************************************************************************************************
 
-- 🌱 I’m currently learning FT(Fourier); Artificial Intelligence; Music algorithm and so on.At the same time, I am strengthening my c-plus-plus skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year.
+- 🌱 I’m currently learning FT(Fourier); Artificial Intelligence & Basic Machine Learning; Music Effect algorithm and so on.At the same time, I am strengthening my c-plus-plus skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year. (Finished) I have been busy learning English recently.
 
-- 🤔 I’m looking for help with DSP algorithms. Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform), Filters, and so on. I sometimes go to the CCRMA Institute on MIT's website to learn about modern signal processing.
+- 🤔 I’m looking for help with DSP algorithms. Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform), Filters, and so on. I sometimes visit the CCRMA Institute on MIT's website to learn about modern signal processing.
 
 - 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
 
 - 📫 How to reach me:
   
-  &emsp;&emsp;&emsp;WeChat:  **GhettoArtistZykee**
+  &emsp;&emsp;&emsp; WeChat:  **GhettoArtistZykee**  (Please clearly state your purpose when adding me on WeChat, otherwise, your request will not be accepted.)
   
   &emsp;&emsp;&emsp;QQ:   **2720229295**
   (This is also my email address.)
 
-  &emsp;&emsp;&emsp;EmailAddress:  **zykeegalyu@gmail.com** or this : **codingzykee@outlook.com**
+  &emsp;&emsp;&emsp; EmailAddress:  **zykeegalyu@gmail.com** or this: **codingzykee@outlook.com**  （I check my emails promptly every day, so rest assured, you will receive a timely response.）
 
   
 - ⚡ Fun fact: 
--  &emsp;&emsp;&emsp;Interested in Music: &nbsp; *RockNRoll*    , &nbsp; *HipHop*    
--  &emsp;&emsp;&emsp;I hope to establish a better connection between creation and humanity，actually I am an idealist.Often write some of my own mood or lyrics, another is an electric guitar player.  
--  &emsp;&emsp;&emsp;Novice to DSP audio algorithms, hoping to find people with similar interests to improve together.
+-  &emsp;&emsp;&emsp; Interested in Music: &nbsp; *RockNRoll*, &nbsp; *HipHop*, &nbsp; *Country*, &nbsp; *Bedroom Music*  （Please recommend some good music to satisfy my ears; it's more enjoyable for me than any fucking drug.）
+-  &emsp;&emsp;&emsp; I hope to establish a better connection between creation and humanity， actually I am an idealist.&emsp; I often write some of my mood or lyrics, another is an electric guitar player.&emsp; I am very concerned and sensitive about human emotional issues. Every small emotion deserves attention and care. I hope you have a good state of mind every day!   
+-  &emsp;&emsp;&emsp; A beginner in studying DSP music algorithms, hoping to find people with similar interests to improve together, at the same time, I also hope to find some uniquely thoughtful companions to inspire me to think about different things... 
 
