@@ -19,7 +19,7 @@ I write projects about audio & music DSP algorithms on Github.
 - &emsp;&emsp;~~An easy way to separate voice from music in Matlab, just for fun.~~ ✌(Finished)&emsp;2023/9/14
 - &emsp;&emsp;~~Mid-channel extraction Algorithm for Voice Separation with FFT in Pure C.~~ ✌(Finished)&emsp;2023/9/20
 - &emsp;&emsp;~~Polyphase filter using for samplerate_converting in Matlab,Learning by principle.~~ ✌(Finished)&emsp;2023/9/25
-- &emsp;&emsp;~~Guitar Compressor Effect Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/5/30  
+- &emsp;&emsp;~~Guitar Compressor Effect Algorithm in Pure C.Classic compressor 1176 FET black-box simulation~~ ✌(Finished)&emsp;2024/5/30  (improved)&emsp;2024/7/10  
 - &emsp;&emsp;~~Shimmer Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/11
 - &emsp;&emsp;~~Reverse Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/26  
 - &emsp;&emsp;~~Basic Realtime-reverberator Algorithm in Pure C. Both matrix and traditional implementation.~~ ✌(Finished)&emsp;2023/12/21 (improved)&emsp;2024/6/15  
