@@ -25,11 +25,12 @@ I write projects about audio & music DSP algorithms on Github.
 - &emsp;&emsp;~~Basic Realtime-reverberator Algorithm in Pure C. Both matrix and traditional implementation.~~ ✌(Finished)&emsp;2023/12/21 (improved)&emsp;2024/6/15  
 - &emsp;&emsp; Machine Learning methods about distortion(GuitarML) (Currently)&emsp;2024/6/17 Temporarily put on hold...  
 - &emsp;&emsp; ~~8Bit Fuzz faulty-distortion pedal."Occasionally lucky product."~~ ✌(Finished)&emsp;2024/8/14  
+- &emsp;&emsp; ~~morden distortion pedal, using traditional classic realization~~ ✌(Finished)&emsp;2024/8/21  
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence & Basic Machine Learning; Music Effect algorithm and so on.At the same time, I am strengthening my c-plus-plus skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year. (Finished) I have been busy learning English recently.
 
-- 🤔 I’m looking for help with DSP algorithms. Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform), Filters, and so on. I sometimes visit the CCRMA Institute on MIT's website to learn about modern signal processing.
+- 🤔 I’m looking for help with DSP algorithms. Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform), Filters, etc. I sometimes visit the CCRMA Institute on MIT's website to learn about modern signal processing.
 
 - 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
 
