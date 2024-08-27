@@ -26,7 +26,7 @@ I write projects about audio & music DSP algorithms on Github.
 - &emsp;&emsp; Machine Learning methods about distortion(GuitarML) (Currently)&emsp;2024/6/17 Temporarily put on hold...  
 - &emsp;&emsp; ~~8Bit Fuzz faulty-distortion pedal."Occasionally lucky product."~~ ✌(Finished)&emsp;2024/8/14  
 - &emsp;&emsp; ~~morden distortion pedal, using traditional classic realization~~ ✌(Finished)&emsp;2024/8/21
-- &emsp;&emsp; Long-term task: Construction company and their own algorithm storage repository (currently expanded) &emsp;2024/6/21 
+- &emsp;&emsp; Long-term task: Construction of both company and my algorithm storage repository (currently expanded) &emsp;2024/6/21 
 ************************************************************************************************************************************
 
 - 🌱 I’m currently learning FT(Fourier); Artificial Intelligence & Basic Machine Learning; Music Effect algorithm and so on.At the same time, I am strengthening my c-plus-plus skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year. (Finished) I have been busy learning English recently.
