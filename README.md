@@ -37,7 +37,7 @@ I write projects about audio & music DSP algorithms on Github.
 
 - 📫 How to reach me:
   
-  &emsp;&emsp;&emsp; WeChat:  **GhettoArtistZykee**  (Please clearly state your purpose when adding me on WeChat, otherwise, your request will not be accepted.)
+  &emsp;&emsp;&emsp; WeChat:  **ChattingZykee**  (Please clearly state your purpose when adding me on WeChat, otherwise, your request will not be accepted.)
   
   &emsp;&emsp;&emsp;QQ:   **2720229295**
   (This is also my email address.)
