@@ -25,7 +25,7 @@ I write projects about audio & music DSP algorithms on Github.
 - &emsp;&emsp;~~Basic Realtime-reverberator Algorithm in Pure C. Both matrix and traditional implementation.~~ ✌(Finished)&emsp;2023/12/21 (improved)&emsp;2024/6/15  
 - &emsp;&emsp; Machine Learning methods about distortion(GuitarML) (Currently)&emsp;2024/6/17 Temporarily put on hold...  
 - &emsp;&emsp; ~~8Bit Fuzz faulty-distortion pedal."Occasionally lucky product."~~ ✌(Finished)&emsp;2024/8/14  
-- &emsp;&emsp; ~~morden distortion pedal, using traditional classic realization~~ ✌(Finished)&emsp;2024/8/21
+- &emsp;&emsp; ~~morden distortion pedal, using traditional classic realization~~ ✌(Finished)&emsp;2024/8/21 &emsp; Add files for antiderivative-oversampling anti-aliasing 2024/9/3    
 - &emsp;&emsp; Long-term task: Construction of both company and my algorithm storage repository (currently expanded) &emsp;2024/6/21 
 ************************************************************************************************************************************
 
