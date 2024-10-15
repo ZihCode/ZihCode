@@ -14,18 +14,15 @@ I write projects about audio & music DSP algorithms on Github.
 - &emsp;&emsp;~~PitchShifting using classic phase vocoder in Pure C.(PV)(time-stretch+resample)Learning by thoroughly understand principle of phase vocoder.😢(Currently)2023/10/23~~ ~~Nearly Finished😢(still have some quality promblems to be sovled) 2023/11/10~~    ✌(Finished)&emsp;2023/11/24
 - &emsp;&emsp;~~FAST CONVOLUTION Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/7/27
 - &emsp;&emsp;~~Whistling suppression algorithm in Pure C.~~ Finished!✌(Almost,Still have some promblems)&emsp;2023/8/25
-- &emsp;&emsp;~~Match EQ Algorithm in MatLab.~~ ✌(Finished)&emsp;2023/9/7
-- &emsp;&emsp;~~Real-time Match EQ Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/9/7
-- &emsp;&emsp;~~An easy way to separate voice from music in Matlab, just for fun.~~ ✌(Finished)&emsp;2023/9/14
-- &emsp;&emsp;~~Mid-channel extraction Algorithm for Voice Separation with FFT in Pure C.~~ ✌(Finished)&emsp;2023/9/20
+- &emsp;&emsp;~~Match EQ Algorithm in MatLab.~~ ✌(Finished)&emsp;2023/9/7 &emsp;~~Real-time Match EQ Algorithm in Pure C.~~ ✌(Finished)&emsp;2023/9/7
+- &emsp;&emsp;~~An easy way to separate voice from music in Matlab, just for fun.~~ ✌(Finished)&emsp;2023/9/14 &emsp;~~Mid-channel extraction Algorithm for Voice Separation with FFT in Pure C.~~ ✌(Finished)&emsp;2023/9/20
 - &emsp;&emsp;~~Polyphase filter using for samplerate_converting in Matlab,Learning by principle.~~ ✌(Finished)&emsp;2023/9/25
 - &emsp;&emsp;~~Guitar Compressor Effect Algorithm in Pure C.Classic compressor 1176 FET black-box simulation~~ ✌(Finished)&emsp;2024/5/30  (improved)&emsp;2024/7/10  
-- &emsp;&emsp;~~Shimmer Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/11
-- &emsp;&emsp;~~Reverse Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/26  
+- &emsp;&emsp;~~Shimmer Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/11 &emsp;~~Reverse Reverb Algorithm in Pure C.~~ ✌(Finished)&emsp;2024/4/26  
 - &emsp;&emsp;~~Basic Realtime-reverberator Algorithm in Pure C. Both matrix and traditional implementation.~~ ✌(Finished)&emsp;2023/12/21 (improved)&emsp;2024/6/15  
 - &emsp;&emsp; Machine Learning methods about distortion(GuitarML) (Currently)&emsp;2024/6/17 Temporarily put on hold...  
 - &emsp;&emsp; ~~8Bit Fuzz faulty-distortion pedal."Occasionally lucky product."~~ ✌(Finished)&emsp;2024/8/14  
-- &emsp;&emsp; ~~morden distortion pedal, using traditional classic realization~~ ✌(Finished)&emsp;2024/8/21 &emsp; Add files for antiderivative-oversampling anti-aliasing 2024/9/3    
+- &emsp;&emsp; ~~morden distortion pedal, using traditional classic realization~~ ✌(Finished)&emsp;2024/8/21 &emsp; Add files for antiderivative-oversampling anti-aliasing &emsp;2024/9/3    
 - &emsp;&emsp; ~~Long-term task: Construction of both company and my algorithm storage repository (currently expanded)~~ &emsp;2024/6/21 ✌(Finished) &emsp;2024/10/15
 - &emsp;&emsp; exp-sin-sweep linear subsystem deviation + Wiener–Hammerstein + Time-Frequency Cost-Function + Levenberg-Marquardt + Hyperbolic-Tangent anti-aliasing gray-box modelling guitar amp &emsp;2024/9/8 (Currently)
 ************************************************************************************************************************************
