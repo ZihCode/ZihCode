@@ -25,11 +25,12 @@ I write projects about audio & music DSP algorithms on Github.
 - &emsp;&emsp; ~~morden distortion pedal, using traditional classic realization~~ ✌(Finished)&emsp;2024/8/21 &emsp; Add files for antiderivative-oversampling anti-aliasing &emsp;2024/9/3    
 - &emsp;&emsp; ~~Long-term task: Construction of both company and my algorithm storage repository (currently expanded)~~ &emsp;2024/6/21 ✌(Finished) &emsp;2024/10/15
 - &emsp;&emsp; ~~exp-sin-sweep linear subsystem deviation + Wiener–Hammerstein + Time-Frequency Cost-Function + Levenberg-Marquardt + Hyperbolic-Tangent anti-aliasing gray-box modelling guitar amp &emsp;2024/9/8~~ &emsp; ✌(Finished) 2025/2/12
+- &emsp;&emsp; ~~WaveNet Deep Learning Method to simulate guitar amplifiers. See more with NAM Open Source. NAM Secondary Development.~~ &emsp; ✌(Finished) 2025/6/12
 ************************************************************************************************************************************
 
-- 🌱 I’m currently learning FT(Fourier); Artificial Intelligence & Basic Machine Learning; Music Effect algorithm and so on.At the same time, I am strengthening my c-plus-plus skills by learning the content posted on learncpp.com, and I hope to finish this part of learning by March next year. (Finished) I have been busy learning English recently.
+- 🌱 I’m currently learning Artificial Intelligence & Basic Machine Learning; Music Effect algorithm and so on.I have been busy learning English recently.
 
-- 🤔 I’m looking for help with DSP algorithms. Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform), Filters, etc. I sometimes visit the CCRMA Institute on MIT's website to learn about modern signal processing.
+- 🤔 I’m looking for help with DSP algorithms. Like Wavelet transform, STFT, HHT(Hilbert-Huang Transform), etc. I sometimes visit the CCRMA Institute on MIT's website to learn about modern signal processing.
 
 - 💬 Some development experience of the project I have completed can be found on my personal WeChat official account: YiyinValley_
 
@@ -45,6 +46,6 @@ I write projects about audio & music DSP algorithms on Github.
   
 - ⚡ Fun fact: 
 -  &emsp;&emsp;&emsp; Interested in Music: &nbsp; *RockNRoll*, &nbsp; *HipHop*, &nbsp; *Country*, &nbsp; *Bedroom Music*  （Please recommend some good music to satisfy my ears; it's more enjoyable for me than any fucking drug.）
--  &emsp;&emsp;&emsp; I hope to establish a better connection between creation and humanity， actually I am an idealist.&emsp; I often write some of my mood or lyrics, another is an electric guitar player.&emsp; I am very concerned and sensitive about human emotional issues. Every small emotion deserves attention and care. I hope you have a good state of mind every day!   
--  &emsp;&emsp;&emsp; A beginner in studying DSP music algorithms, hoping to find people with similar interests to improve together, at the same time, I also hope to find some uniquely thoughtful companions to inspire me to think about different things... 
+-  &emsp;&emsp;&emsp; I hope to establish a better connection between creation and humanity， actually being an idealist.&emsp; I often write some of my mood or lyrics, another is an electric guitar player.&emsp; I am very concerned and sensitive about human emotional issues. Every small emotion deserves attention and care. I hope you have a good state of mind every day!   
+-  &emsp;&emsp;&emsp; A beginner in studying DSP music algorithms, hoping to find people with similar interests to improve together. I also hope to find some uniquely thoughtful companions to inspire me to think about different things... 
 
